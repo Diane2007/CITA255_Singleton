@@ -1,2 +1,2 @@
-# Put your project description here!
-Tell me about your project. Plz.
+# This is just a quick demo of singleton in class
+I hope I explained well :)
